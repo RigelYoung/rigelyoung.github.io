@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Fuzzification: Anti-Fuzzing Techniques论文阅读
+title:      Anti-Fuzzing Techniques论文阅读
 subtitle:   Usenix2019上的一篇antifuzz论文 个人向笔记
 date:       2020-11-06
 author:     Rigel
@@ -10,7 +10,7 @@ tags:
     - Fuzz
 ---
 
-# Anti-Fuzzing
+# FUZZIFICATION：Anti-Fuzzing
 
 模糊测试作为一种软件测试技术，也可以被恶意攻击者使用以发现零日漏洞。因此，**开发人员希望在其产品上应用反模糊技术以阻止攻击者进行模糊测试，其概念类似于使用混淆技术削弱逆向工程。**
 

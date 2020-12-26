@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      UNVEIL: A Large-Scale,Automated Approach to Detecting Ransomware论文阅读
-subtitle:   USENIX2016的勒索病毒检测论文 个人向笔记
+title:      UNVEIL 勒索病毒检测论文阅读
+subtitle:   USENIX2016上的一篇勒索病毒检测论文 个人向笔记
 date:       2020-12-15
 author:     Rigel
 header-img: img/post-bg-re-vs-ng2.jpg
