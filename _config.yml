@@ -1,10 +1,10 @@
 # Site settings
-title: Pwner_Rigel       
+title: Rigel.       
 SEOTitle: Rigel Blog
 header-img: img/home-bg.jpg
 email: 565981292@qq.com
 description: "Defcon Defcon."
-keyword: "Rigel Young, pwn, ctf, binary"
+keyword: "Rigel, pwn, ctf, binary, Rigel Blog"
 url: "http://rigelyoung.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 #github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -94,6 +94,18 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
+friends: [
+    {
+        title: "Dawuge",
+        href: "https://dawuge.github.io/"
+    },{
+        title: "寒雨",
+        href: "https://mundi-xu.github.io/"
+    },{
+        title: "Kipery",
+        href: "https://kiprey.github.io/"
+    }
+]
 
 
 
